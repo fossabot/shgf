@@ -2,6 +2,7 @@
 [![Build Status](https://travis-ci.org/lucasmenendez/shgf.svg?branch=master)](https://travis-ci.org/lucasmenendez/shgf)
 [![Report](https://goreportcard.com/badge/github.com/lucasmenendez/shgf)](https://goreportcard.com/report/github.com/lucasmenendez/shgf)
 [![codebeat badge](https://codebeat.co/badges/2cf14aa6-9240-447e-ac7e-0c620fc6cf99)](https://codebeat.co/projects/github-com-lucasmenendez-shgf-master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flucasmenendez%2Fshgf.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flucasmenendez%2Fshgf?ref=badge_shield)
 
 
 # SHGF: Simple HTTP golang framework
@@ -145,3 +146,6 @@ var conf = &shfg.Config{
 }
 
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flucasmenendez%2Fshgf.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flucasmenendez%2Fshgf?ref=badge_large)
